@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">🚀 A Passionate MERN Stack Developer</h3>
+<h3 align="center"> MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekanil551&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
@@ -12,7 +12,6 @@
 💻 I'm a **MERN Stack Developer** passionate about building **scalable** and **high-performance** web applications.  
 📚 Currently learning **Advanced JavaScript** and **System Design**.  
 🎯 Focused on writing **clean, maintainable, and efficient code**.  
-🌱 Exploring **cloud deployment** and **DevOps tools** to scale projects.
 
 ---
 
@@ -43,19 +42,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
 
-## 📌 Projects  
-
-| Project Name      | Description                                   | Tech Stack             | Live Demo |
-|-------------------|-------------------------------------------|------------------------|-----------|
-| **FitBoy**       | 🎮 E-commerce platform for selling games. | Node.js, Express, MongoDB, EJS, Bootstrap | [Live](#) |
-| **EventHub**     | 📅 Event booking platform for users, managers, and admins. | MERN Stack | [Live](#) |
-| **DSA Repo**     | 📘 Collection of JavaScript-based DSA solutions. | JavaScript | [View Repo](#) |
-
-> More projects coming soon... 🚀  
-
----
 
 ## 📊 GitHub Stats  
 
@@ -77,7 +64,7 @@
 
 <p>
   <a href="mailto:abhishekanil551@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aabhishek-anil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/abhishekanil551"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
