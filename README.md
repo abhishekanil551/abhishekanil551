@@ -1,0 +1,86 @@
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<h3 align="center">🚀 A Passionate MERN Stack Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishekanil551&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://img.shields.io/github/followers/abhishekanil551?label=Followers&style=social" alt="followers" />
+</p>
+
+---
+
+## 🚀 About Me  
+💻 I'm a **MERN Stack Developer** passionate about building **scalable** and **high-performance** web applications.  
+📚 Currently learning **Advanced JavaScript** and **System Design**.  
+🎯 Focused on writing **clean, maintainable, and efficient code**.  
+🌱 Exploring **cloud deployment** and **DevOps tools** to scale projects.
+
+---
+
+## 🛠️ Tech Stack & Skills  
+
+### **Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### **Backend Development**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+### **Database**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### **Version Control & Deployment**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📌 Projects  
+
+| Project Name      | Description                                   | Tech Stack             | Live Demo |
+|-------------------|-------------------------------------------|------------------------|-----------|
+| **FitBoy**       | 🎮 E-commerce platform for selling games. | Node.js, Express, MongoDB, EJS, Bootstrap | [Live](#) |
+| **EventHub**     | 📅 Event booking platform for users, managers, and admins. | MERN Stack | [Live](#) |
+| **DSA Repo**     | 📘 Collection of JavaScript-based DSA solutions. | JavaScript | [View Repo](#) |
+
+> More projects coming soon... 🚀  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekanil551&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekanil551&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekanil551&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Let's Connect  
+
+<p>
+  <a href="mailto:abhishekanil551@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/abhishekanil551"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+⭐ **Feel free to explore my repositories and contribute!**
