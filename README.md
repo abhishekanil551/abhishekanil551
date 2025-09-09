@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Abhishek's Profile Picture" width="150" style="border-radius:50%;" />
-</p>
+
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center"> MERN Stack Developer</h3>
 
